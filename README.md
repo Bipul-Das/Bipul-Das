@@ -51,9 +51,11 @@ Whether architecting a distributed **MERN stack** application or optimizing low-
 
 ### 📈 Contribution Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bipul-Das&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bipul-Das&theme=react-dark" alt="Activity Graph" />
+  
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bipul-Das&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bipul-Das&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
