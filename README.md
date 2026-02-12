@@ -1,17 +1,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Bipul%20Das&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Computer%20Science%20&%20Engineering&descAlignY=55&descSize=25" width="100%" alt="Header" />
   
-  <p>
-    <a href="mailto:bipul.das.cse@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="www.linkedin.com/in/bipuldas-cse">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="[Link to your Portfolio/Website]">
-      <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-    </a>
-  </p>
+  <p align="center">
+  <a href="mailto:bipul.das.cse@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/bipuldas-cse/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <!-- <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a> -->
+</p>
 </div>
 
 ---
@@ -57,9 +51,9 @@ Whether architecting a distributed **MERN stack** application or optimizing low-
 
 ### 📈 Contribution Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Your-Username]&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bipul-Das&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-Username]&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bipul-Das&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
