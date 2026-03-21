@@ -11,9 +11,9 @@
 ---
 
 ### 👨‍💻 Engineering Profile
-I am a **Computer Science & Engineering** graduate focused on building robust, scalable software solutions. My engineering philosophy is grounded in strong **CS fundamentals**—prioritizing efficient algorithms, memory safety, and system architecture over temporary fixes.
+I am a **Computer Science & Engineering** graduate specializing in the design and implementation of **high-performance, scalable distributed systems**. My approach to development is rooted in rigorous **Computer Science fundamentals**, prioritizing **algorithmic efficiency**, **systemic reliability**, and **architectural integrity** to meet the demands of modern enterprise environments.
 
-Whether architecting a distributed **MERN stack** application or optimizing low-level **C++** memory allocation, I aim to bridge the gap between theoretical computer science and practical software engineering.
+My expertise spans the full technical stack—from architecting **cloud-native microservices** and **event-driven web architectures** to implementing low-level optimizations in **Systems Programming**. I bridge the gap between theoretical computation and pragmatic engineering by applying **Design Patterns**, ensuring **memory safety**, and maintaining **strict industry standards** across the entire **Software Development Life Cycle (SDLC)**.
 
 ---
 
@@ -23,29 +23,35 @@ Whether architecting a distributed **MERN stack** application or optimizing low-
 | :--- | :--- |
 | **Languages** | ![C++](https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | **CS Fundamentals** | ![Data Structures](https://img.shields.io/badge/Data_Structures-DSA-red?style=flat-square) ![Algorithms](https://img.shields.io/badge/Algorithms-O(n)-blue?style=flat-square) ![OOP](https://img.shields.io/badge/OOP-Design_Patterns-green?style=flat-square) ![OS](https://img.shields.io/badge/OS-Concepts-purple?style=flat-square) |
-| **Full Stack Web** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Database & Cloud** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-Bash-FCC624?style=flat-square&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| **System Architecture & Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Backend & Distributed Systems** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
+| **Database & Cache Layer** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| **Infrastructure & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-Bash-FCC624?style=flat-square&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 | **AI & Data** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
 
 ---
 
 ### 🚀 Featured Engineering Projects
 
-#### 1. [LuminaDB](https://github.com/[Your-Username]/LuminaDB) - *Systems Programming & Performance*
+#### 1. [LuminaDB](https://github.com/Bipul-Das/LuminaDB) - *Systems Programming & Performance*
 > **Concept:** A distributed in-memory key-value store optimized for high-throughput caching.
 > * **Engineering Challenge:** Implementing custom memory allocators to reduce fragmentation and utilizing thread-pooling for concurrency.
 > * **Tech Stack:** C++17, CMake, Mutex/Locks, TCP/IP Sockets.
 
-#### 2. [SafeCompass](https://github.com/[Your-Username]/[Your-MERN-Repo-Name]) - *Scalable Web Architecture*
-> **Concept:** A full-stack safety platform featuring real-time geolocation tracking and emergency response triggers.
-> * **Engineering Challenge:** Managing WebSocket connections for live tracking and securing REST APIs with JWT and Role-Based Access Control (RBAC).
-> * **Tech Stack:** MongoDB, Express.js, React, Node.js (MERN), Socket.io.
+#### 2. [BloodLink](https://github.com/Bipul-Das/blood-link) - *Full-Stack Engineering & Healthcare Logistics*
+> **Concept:** A role-based emergency blood management ecosystem designed to digitize inventory telemetry and donor-to-patient matching.
+> * **Engineering Challenge:** Implementing complex Role-Based Access Control (RBAC) for four distinct user tiers and developing a "Just-In-Time" eligibility algorithm to enforce a strict 90-day biological donation lock.
+> * **Tech Stack:** MongoDB, Express.js, React.js (Vite), Node.js, JWT, RESTful API.
 
-#### 3. [Bengali Hate Speech Detection](https://github.com/[Your-Username]/[Your-ML-Repo-Name]) - *Natural Language Processing*
-> **Concept:** A Transformer-based model designed to classify toxic speech in low-resource languages.
-> * **Engineering Challenge:** Handling data imbalance and fine-tuning BERT architecture for linguistic nuances in Bengali.
-> * **Tech Stack:** Python, PyTorch/TensorFlow, Transformers (Hugging Face).
+#### 3. [Charity Hospital](https://github.com/Bipul-Das/charity-hospital) - *Full-Stack Healthcare Engineering*
+> **Concept:** An enterprise-grade **Hospital Management System (HMS)** featuring role-based clinical workflows and automated pharmaceutical inventory tracking.
+> * **Engineering Challenge:** Designing a secure, centralized **Role-Based Access Control (RBAC)** engine that dynamically orchestrates distinct UI rendering and protects **REST endpoints** based on strict user privileges.
+> * **Tech Stack:** **MongoDB**, **Express.js**, **React.js**, **Node.js**, **JWT**, **Axios**, **CSS3**.
+
+#### 4. [FoodSurplus](https://github.com/Bipul-Das/food-surplus-management) - *Full-Stack Supply Chain & Logistics*
+> **Concept:** A high-performance redistribution engine designed to bridge the gap between corporate donors and NGOs through **real-time inventory synchronization**.
+> * **Engineering Challenge:** Implementing a high-concurrency **Real-Time Telemetry Dashboard** with **WebSocket** integration to manage complex supply chain states and a custom **Layered Avatar System** for multi-node tracking.
+> * **Tech Stack:** **PostgreSQL**, **Express.js**, **React.js**, **Node.js**, **Zustand**, **Tailwind CSS**.
 
 ---
 
