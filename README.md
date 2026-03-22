@@ -33,7 +33,7 @@ My expertise spans the full technical stack—from architecting **cloud-native m
 
 ### 🚀 Featured Engineering Projects
 
-#### 1. [LuminaDB](https://github.com/Bipul-Das/LuminaDB) - *Systems Programming & Performance*
+#### 1. [LuminaDB](https://github.com/Bipul-Das/lumina-db) - *Systems Programming & Performance*
 > **Concept:** A distributed in-memory key-value store optimized for high-throughput caching.
 > * **Engineering Challenge:** Implementing custom memory allocators to reduce fragmentation and utilizing thread-pooling for concurrency.
 > * **Tech Stack:** C++17, CMake, Mutex/Locks, TCP/IP Sockets.
