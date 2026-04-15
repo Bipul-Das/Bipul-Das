@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Bipul%20Das&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Computer%20Science%20&%20Engineering&descAlignY=55&descSize=25" width="100%" alt="Header" />
   
   <p align="center">
-    <!-- <a href="mailto:bipul.das.cse@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>-->
   <a href="https://www.linkedin.com/in/bipuldas-cse/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <!-- <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a> -->
 </p>
